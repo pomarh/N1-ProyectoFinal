@@ -20,7 +20,7 @@ export function cargarStays(nuevaLista) {
         tipoStays.innerHTML += `
         <div class="w-12/12">
                     <img
-                        class="w-12/12 h-46 rounded-3xl object-cover"
+                        class="w-12/12 h-50 rounded-3xl object-cover"
                         src="${nuevaLista[i].photo}"
                         alt="" />
                     <div class="flex justify-between items-center px-3 lg:pt-2">
