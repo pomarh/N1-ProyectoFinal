@@ -31,7 +31,7 @@ export function cargarStays(nuevaLista) {
                         <div class="flex justify-end items-center gap-1">
                             <img
                                 class="w-4 h-4"
-                                src="./public/img/icons/star.svg"
+                                src="./src/img/icons/star.svg"
                                 alt="star" />
                             <p class="text-dark text-[12px] py-1">${nuevaLista[i].rating}</p>
                         </div>
